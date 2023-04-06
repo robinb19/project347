@@ -1,4 +1,4 @@
-package Game;
+package game;
 
 public class Dagger implements IWeapon{
     public int use(int ap){
